@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{7EE1FD7B-2EE9-4375-98CF-501351CDC0B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "..\..\..\CampusVirtual\Negocio\Negocio.csproj", "{7EE1FD7B-2EE9-4375-98CF-501351CDC0B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{C701AFD8-C4BE-4CB6-8F9B-32224E82D21F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "..\..\..\CampusVirtual\Datos\Datos.csproj", "{C701AFD8-C4BE-4CB6-8F9B-32224E82D21F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{AF626A25-1F51-4336-AF07-535359EA57B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "..\..\..\CampusVirtual\Entidades\Entidades.csproj", "{AF626A25-1F51-4336-AF07-535359EA57B7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Back", "Back", "{19E03450-E843-45C4-8CEA-3BA3D1651797}"
 EndProject
@@ -15,11 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Front", "Front", "{B1D35B4A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTest", "UnitTest", "{4BBC23ED-A119-4202-80E1-DEEF4A30C47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnePage", "OnePage\OnePage.csproj", "{A905BDF7-F688-4E0C-95CC-042DFA326EB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnePage", "..\..\..\CampusVirtual\OnePage\OnePage.csproj", "{A905BDF7-F688-4E0C-95CC-042DFA326EB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{F485EBD1-CBF8-46D4-B24A-7FF7E35332B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "..\..\..\CampusVirtual\WebApp\WebApp.csproj", "{F485EBD1-CBF8-46D4-B24A-7FF7E35332B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaUnitaria", "PruebaUnitaria\PruebaUnitaria.csproj", "{3AF32930-EDE7-4301-AE3A-1CEE17D8F580}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaUnitaria", "..\..\..\CampusVirtual\PruebaUnitaria\PruebaUnitaria.csproj", "{3AF32930-EDE7-4301-AE3A-1CEE17D8F580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
